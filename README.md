@@ -9,4 +9,4 @@ Tecnologias: Javascript & Phaser
 
 Ano de Desenvolvimento: 2017
 
-![](/assets/fundo.png)
+![](/assets/fundo.PNG)
